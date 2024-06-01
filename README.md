@@ -1,9 +1,5 @@
 # Web-Calculator-
 This project is a web-based calculator that features a simple and modern user interface. The calculator is built using HTML, CSS, and JavaScript, making it easy to customize and extend. The calculator supports basic arithmetic operations, including addition, subtraction, multiplication, and division. 
-# Web Calculator
-. 
-================. 
-=====================
 # Simple-Calculator
 
 <a href="https://github.com/Siddesh000T/Web-Calculator-/LICENSE"><img src="https://img.shields.io/badge/License-MIT-red.svg" alt="license"/></a>
@@ -23,7 +19,6 @@ Its useful for simple calculations.
 
 ## Built With
 
-* love
 * html
 * css
 * javascript
@@ -38,25 +33,14 @@ To run my application you simply need to clone the project and run the html file
 Issues
 ==========
 * Internet Explorer you need to allow all the scripts to run.
-* Not working in Mozilla.
 * Feel free to submit more issues and enhancement requests.
-
-Contributing
-==========
-Any kind of contributions are welcome.
-
-1. <a href='https://help.github.com/articles/fork-a-repo/'>**Fork**</a> the repo on GitHub.
-2. <a href='https://help.github.com/articles/cloning-a-repository/'>**Clone**</a> the project to your own machine.
-3. <a href='https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository'>**Commit**</a> changes to <a href='https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell'>**development branch**</a>.
-4. <a href='https://help.github.com/articles/pushing-to-a-remote/'>**Push**</a> your work back up to your fork.
-5. Submit a <a href='https://help.github.com/articles/about-pull-requests/'>**Pull request**</a> so that i can review your changes
 
 ##License
 
 ```Groovy
 MIT License
 
-Copyright (c) 2016 Mohit chattlani
+Copyright (c) 2024 Siddhesh More
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
