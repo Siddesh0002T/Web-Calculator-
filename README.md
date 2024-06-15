@@ -1,5 +1,5 @@
 # Web-Calculator-
-This project is a web-based calculator that features a simple and modern user interface. The calculator is built using HTML, CSS, and JavaScript, making it easy to customize and extend. The calculator supports basic arithmetic operations, including addition, subtraction, multiplication, and division. 
+This project is a web-based calculator that features a simple and modern user interface. The calculator is built using HTML, CSS, and JavaScript, making it easy to customize and extend. The calculator supports basic arithmetic operations, including addition, subtraction, multiplication, and division. <a href="https://siddesh0002t.github.io/Web-Calculator-/">Open Web-Calculator</a>
 # Simple-Calculator
 
 <a href="https://github.com/Siddesh0002T/Web-Calculator-/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-red.svg" alt="license"/></a>
